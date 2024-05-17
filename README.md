@@ -1,6 +1,8 @@
 ## Who am I?
 
-Hi I'm Thibault Monnier. I was born in 2010 and I live in the south of France. I mainly code in Typescript and I'm currently learning C# for Unity game development.
+Hi I'm Thibault Monnier. [Here's my LinkedIn profile](https://www.linkedin.com/in/thibault-monnier/). I was born in 2010 and I live in the south of France. I mainly code in [Typescript](https://en.wikipedia.org/wiki/TypeScript) for web development. I am currently learning [Rust](https://en.wikipedia.org/wiki/Rust_(programming_language)), with the goal of replacing the current Typescript-based chess bot with a faster Rust-based bot for my [free chess](https://github.com/Thibault-Monnier/free-chess). I know a bit of C# though I never really coded anything myself with it. I also (as said), know web languages such as [Javascipt](https://en.wikipedia.org/wiki/JavaScript), [HTML](https://en.wikipedia.org/wiki/HTML), and [CSS](https://en.wikipedia.org/wiki/CSS). 
+
+I started coding start of 2022, [my father](https://github.com/antmonnier) helping me quite a bit. I have been mostly coding on my own since mid-2023.
 
 ## Latest projects
 
