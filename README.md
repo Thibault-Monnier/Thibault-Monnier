@@ -4,7 +4,7 @@ Hi, I'm Thibault Monnier. [Here's my LinkedIn profile](https://www.linkedin.com/
 
 I started coding start of 2022, my father helping me quite a bit. I have been mostly coding on my own since mid-2023.
 
-I am also a member of the [Eagle Tech organization](https://github.com/Eagletech-robotic), the codebase of a robotics club.
+I am also a member of the [Eagle Tech organization](https://github.com/Eagletech-robotic), the codebase of the Eagle Tech robotics club.
 
 ## Latest projects
 
