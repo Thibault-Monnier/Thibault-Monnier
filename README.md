@@ -8,5 +8,4 @@ I am also a member of the [Eagle Tech organization](https://github.com/Eagletech
 
 - [EagleTech Website](https://github.com/eagletech-robotic/website) is the website of the EagleTech club.
 - [Free Chess](https://github.com/Thibault-Monnier/free-chess) is a chess game and engine that runs in the browser. It is developped in Typescript.
-- [Personal Website](https://github.com/Thibault-Monnier/my-website) is a work-in-progress to learn CSS and reference all my projects.
-- [Tetris](https://github.com/Thibault-Monnier/tetris) is a Javascript tetris game.
+- [Tini-lang](https://github.com/Thibault-Monnier/tini-lang) is a simple programming language that I am developping in TS to learn how to make programming languages.
